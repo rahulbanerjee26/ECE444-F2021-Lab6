@@ -2,3 +2,7 @@ venv
 project/__pycache__/*
 tests/__pycache__/*
 project/__pycache__
+*.pyc
+*.DS_Store
+__pycache__
+test.db

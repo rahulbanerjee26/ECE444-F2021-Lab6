@@ -4,6 +4,15 @@ This app was created by following the turoial at https://github.com/mjhea0/flask
 
 Deployed APP URL: https://dry-scrubland-14934.herokuapp.com/search/
 
+## Unit Tests 
+### Flask
+[test_be.py](https://github.com/ECE444-2021Fall/project1-education-pathways-group-9-erlenmeyer/blob/Lab6-Rahul/carbon_be/src/test_be.py#L41) - From Line 41 
+
+### React
+[App.test.js](https://github.com/ECE444-2021Fall/project1-education-pathways-group-9-erlenmeyer/blob/Lab6-Rahul/carbon_fe/src/App.test.js)
+
+[HomePage.test.js](https://github.com/ECE444-2021Fall/project1-education-pathways-group-9-erlenmeyer/blob/Lab6-Rahul/carbon_fe/src/components/Home/HomePage.test.js)
+
 ## Pros and Cons of TDD
 
 ### Pros
